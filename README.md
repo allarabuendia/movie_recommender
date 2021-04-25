@@ -15,7 +15,7 @@ El modelo se ha entrenado con [este dataset](https://www.kaggle.com/jonathanohei
 
 ### Filtros
 
-![Streamlit Filtros](https://raw.githubusercontent.com/allarabuendia/movie_recommender/master/assets/Stream1.PNG)
+![Streamlit Filtros](https://raw.githubusercontent.com/allarabuendia/movie_recommender/master/Stream1.PNG)
 
 ### Foto y resultado
 
