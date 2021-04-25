@@ -1,0 +1,11 @@
+Download from Kaggle
+
+
+	Face expressions:
+
+		https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+
+	Top 5000 IMDB movies:
+
+		https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
