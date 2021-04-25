@@ -8,12 +8,14 @@ Un recomedador funciona utilizando Cosine Similarity por coincidencia.
 Para el otro recomendador se han utilizado tecnicas de Natural Lenguage Processing y una Regresión logística con el objetivo de clasificar 
 las sinopsis de las películas en funcion de sentimientos.
 Para etiquetar las sinopsis se han utilizado técnicas de webscrapping con Selenium.
-Por último, se utiliza una red convolucional para tomar analizar tu estado de ánimo en función de una foto de tu rostro. 
+Por último, se utiliza una red convolucional para analizar tu estado de ánimo en función de una foto de tu rostro. 
 El modelo se ha entrenado con [este dataset](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset).
 
 ## Ejemplos del resultado del front con Streamlit:
 
 ### Filtros
+
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/allarabuendia/movie_recommender/master/assets/Stream.PNG)
 
 ### Foto y resultado
 
