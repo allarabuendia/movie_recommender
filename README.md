@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/alarab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alarab/" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/allarab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="kaggle.com/allarab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alarab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alarab" height="30" width="40" /></a>
+<a href="https://kaggle.com/allarab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="allarab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
